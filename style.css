@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(91, 91, 91);
+    color: brown;
+    font-family: fantasy;
+}
+h1 {
+    font-family: cursive;
+    color: rgb(189, 8, 8);
+}
+
+h2 {
+    font-family: cursive;
+    color: rgb(189, 8, 8);
+}
+
+.more-info {
+    color: rgb(109, 3, 3);
+}
+
+.home {
+    color: rgb(109, 3, 3);
+}
